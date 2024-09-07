@@ -18,10 +18,6 @@ export default class Employe {
     }
 
   
-    getName() {
-      return this.#nom
-    }
-  
     getEmp() {
       return {
         nom: this.#nom,
