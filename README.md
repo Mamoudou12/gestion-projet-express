@@ -5,10 +5,14 @@ Ce projet est une application de gestion de projet qui permet de gérer les assi
 
 [uml](./assets/uml.png)
 
+## Prérequis
+- Node.js installé sur votre machine (version 12 ou supérieure).
+- Un éditeur de code comme Visual Studio Code.
+
 ## Prise en main
 
 ```bash
-https://github.com/Mamoudou12/gestion-projet-express.git
+git clone https://github.com/Mamoudou12/gestion-projet-express.git
 ```
 
 ## Installer les dépendances 
