@@ -3,7 +3,7 @@ Ce projet est une application de gestion de projet qui permet de gérer les assi
 
 ## Modélisation du projet
 
-[uml](./assets/uml)
+[uml](./assets/uml.png)
 
 ## Prise en main
 
